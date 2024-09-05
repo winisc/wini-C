@@ -1,3 +1,3 @@
 # wini-C
 
-Estudo de Terminal
+Estudo de Terminal utilizando C
